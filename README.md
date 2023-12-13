@@ -7,7 +7,7 @@ The deployable all-in-one bundle for [Ultraviolet](https://github.com/mikesayswo
 ## Deployment
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/mikesayswohoo/Ultraviolet-App/wiki/Run-on-Replit)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/nj2-np)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/1alvvo?referralCode=H5PXt8)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/mikesayswohoo/Ultraviolet-App/wiki/Remix-on-Glitch)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/mikesayswohoo/Ultraviolet-App/wiki/Deploy-to-Koyeb)
 
